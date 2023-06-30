@@ -14,7 +14,7 @@ namespace game
             int card = rnd.Next(100);     // creates a number between 0 and 99
 
             int t=0;
-            while (true)
+            while (true)// qora oynada suz topish uyini
             {
                 t=t+1;
 
